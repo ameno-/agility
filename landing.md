@@ -2,7 +2,7 @@
 
 ## Hic cognitus tunc frontem non est quod
 
-Lorem markdownum admovet. Faciebat silvasque, struxisse manus petiere oscula?
+Lorem markdownum admovet. Faciebat silvasque, struxisse manus petiere oscula
 
 Et eripiam contenta videam luxuriem Minos, saniem pavet nec corripe numen.
 Siccare quoque, minuendo Colchi; sectos, Amphitryoniadae fraxinus orantemque
